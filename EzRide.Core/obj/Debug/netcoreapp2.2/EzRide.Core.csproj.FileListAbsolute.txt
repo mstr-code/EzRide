@@ -1,0 +1,9 @@
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/bin/Debug/netcoreapp2.2/EzRide.Core.deps.json
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/bin/Debug/netcoreapp2.2/EzRide.Core.dll
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/bin/Debug/netcoreapp2.2/EzRide.Core.pdb
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/obj/Debug/netcoreapp2.2/EzRide.Core.csprojAssemblyReference.cache
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/obj/Debug/netcoreapp2.2/EzRide.Core.csproj.CoreCompileInputs.cache
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/obj/Debug/netcoreapp2.2/EzRide.Core.AssemblyInfoInputs.cache
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/obj/Debug/netcoreapp2.2/EzRide.Core.AssemblyInfo.cs
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/obj/Debug/netcoreapp2.2/EzRide.Core.dll
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Core/obj/Debug/netcoreapp2.2/EzRide.Core.pdb

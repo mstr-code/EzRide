@@ -1,0 +1,12 @@
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/bin/Debug/netcoreapp2.2/EzRide.Infrastructure.deps.json
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/bin/Debug/netcoreapp2.2/EzRide.Infrastructure.dll
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/bin/Debug/netcoreapp2.2/EzRide.Infrastructure.pdb
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/bin/Debug/netcoreapp2.2/EzRide.Core.dll
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/bin/Debug/netcoreapp2.2/EzRide.Core.pdb
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.csprojAssemblyReference.cache
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.AssemblyInfoInputs.cache
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.AssemblyInfo.cs
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.csproj.CopyComplete
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.dll
+/Users/macchamaachan/VisualStudioCode/EzRide/EzRide.Infrastructure/obj/Debug/netcoreapp2.2/EzRide.Infrastructure.pdb
